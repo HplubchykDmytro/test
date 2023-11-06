@@ -1,0 +1,25 @@
+.working-table{
+	margin: auto;
+	font-size: 18px;
+	font-family: 'Courier New', Courier, monospace;
+	background-color: cadetblue;
+}
+.working-table caption{
+	font-style: italic;
+	color: forestgreen;
+}
+.working-table thead{
+	font-weight: 700;
+	color: darkgreen;
+}
+.working-table tbody{
+	color: lightgreen;
+
+}
+.working-table th, .working-table td{
+	border: 1px solid black;
+	padding: 10px;
+	text-align: center;
+	vertical-align: middle;
+
+}
